@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author geekymanas
+ *
+ */
 public class P1 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
